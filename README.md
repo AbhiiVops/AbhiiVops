@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AbhiiVops/AbhiiVops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://app.daily.dev/abhiias"><img src="https://api.daily.dev/devcards/99538e940e154fc1b4bcf6a343d0757c.png?r=zkj" width="400" alt="Abhishek Bhattacharjee's Dev Card"/></a>
 

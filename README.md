@@ -1,5 +1,6 @@
 ### Hey Abhishek here 👋
-![Blue and White Elegant Minimal Modern Gallery Twitter Header](https://user-images.githubusercontent.com/93565422/206739035-715287b8-e5f6-433d-ac23-4d8cb7686ecc.png)
+![Untitled design(6)](https://user-images.githubusercontent.com/93565422/211038221-c8971607-ff2f-4b90-8785-46e9bf36b8f3.png)
+
 
 
 I am a OPEN SOURCE DEVELOPER ADVOCATE and Mobile application devloper who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about WEB3. :wink:

@@ -125,6 +125,8 @@ The waterfall model arranges all the phases sequentially so that each new phase 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679515029797/2a342387-5895-4b3d-bfd9-a54e81a31f36.png align="center")
 
+An easy-to-understand example is building a house. Each phase of building a house, such as planning, designing, constructing, and finishing, is carried out sequentially, just like the Waterfall Model.
+
 ***Pros and cons***
 
 The waterfall model provides the discipline to project management and gives a tangible output at the end of each phase. However, there is little room for change once a phase is considered complete, as changes can affect the software's delivery time, cost, and quality. Therefore, the model is most suitable for small software development projects, where tasks are easy to arrange and manage and requirements can be pre-defined accurately.
@@ -134,6 +136,8 @@ The waterfall model provides the discipline to project management and gives a ta
 The iterative process suggests that teams begin software development with a small subset of requirements. Then, they iteratively enhance versions over time until the complete software is ready for production. The team produces a new software version at the end of each iteration.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679515081848/c732b034-d390-4bdc-8e7e-7467f38f55e8.png align="center")
+
+An easy-to-understand example of the iterative model is the process of designing a car. In the iterative model, the development process is divided into multiple iterations, with each iteration focusing on a specific aspect of the car's design.
 
 ***Pros and cons***
 
@@ -145,6 +149,8 @@ The spiral model combines the iterative model's small repeated cycles with the w
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679515126078/292f230b-3f0e-4c19-a6e1-da318ae739f4.jpeg align="center")
 
+An easy-to-understand example is cooking a dish. You start with a recipe, plan the ingredients, start cooking, taste the dish, and make changes as needed. If it doesn't taste good, you can always make changes until you get the desired outcome.
+
 ***Pros and cons***
 
 The spiral model is suitable for large and complex projects that require frequent changes. However, it can be expensive for smaller projects with a limited scope.
@@ -155,12 +161,14 @@ The agile model arranges the SDLC phases into several development cycles. The te
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679515169525/a47a8ed4-65a9-4277-9026-333b46343cf1.jpeg align="center")
 
+An easy-to-understand example is building a website. The website development team works in sprints, where they collaborate, plan, develop, test, and release the website in iterations.
+
 ***Pros and cons***
 
 Rapid development cycles help teams identify and address issues in complex projects early on and before they become significant problems. They can also engage customers and stakeholders to obtain feedback throughout the project lifecycle. However, overreliance on customer feedback could lead to excessive scope changes or end the project midway.
 
 **In conclusion**, the SDLC is a crucial framework for software development, enabling organizations to effectively plan, develop, test, and deploy software systems that meet the needs of their stakeholders while adhering to best practices and industry standards.
 
-**In this upcoming blog post, we will take a deep dive into the Waterfall model, examining its distinct characteristics , advantages and disadvantages in the software development process. Stay tuned!**
+**In this upcoming blog post, we will take a deep dive into the Waterfall model, examining its distinct characteristics, advantages and disadvantages in the software development process. Stay tuned!**
 
 ***If you found this blog informative, please show your support by dropping ❤️ and sharing it with your friends. 🙌🏼 I would also love to hear your feedback and suggestions for future topics, so feel free to drop a comment and let me know how I can improve. 🤗***

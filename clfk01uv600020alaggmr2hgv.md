@@ -4,7 +4,7 @@ seoTitle: "Devops 101"
 datePublished: Wed Mar 22 2023 18:09:51 GMT+0000 (Coordinated Universal Time)
 cuid: clfk01uv600020alaggmr2hgv
 slug: devops-101-getting-started-as-a-beginner
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679507414989/2b52eb08-9e7a-409a-8491-c084fd61fa1d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679767364680/3ff85390-202c-4fb9-827d-6549f09f4a2b.png
 tags: agile-development, devops, devops-articles, devops-trends, devops-journey
 
 ---

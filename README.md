@@ -1,61 +1,126 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bhattacharjee</h1>
+![ABHISHEK BHATTACHARJEE(1)](https://github.com/AbhiiVops/AbhiiVops/blob/main/IMAGES/ABHISHEK%20BHATTACHARJEE(1).gif?raw=true)
 
-![Untitled design(6)](https://user-images.githubusercontent.com/93565422/211038221-c8971607-ff2f-4b90-8785-46e9bf36b8f3.png)
+<img alt="Night Coding" src="./IMAGES/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
-<h3 align="center">I am an OPEN SOURCE DEVELOPER ADVOCATE and Mobile application devloper who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about WEB3. :wink:</h3>
+<h2 align="center">Crafting robust and scalable backend solutions with Django✨</h2>
 
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br><br>
+<a href="https://twitter.com/VopsAbhii">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-bhattacharjee-0747331a3/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AbhiiVops/">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/abhii.bhattacharya4321/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@codeencode">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiivops&label=Profile%20views&color=0e75b6&style=flat" alt="abhiivops" /> </p>
+![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=AbhiiVops&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhiiVops?label=follow&style=social)](https://github.com/AbhiiVops)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiivops" alt="abhiivops" /></a> </p>
+## 👨🏻‍💻 &nbsp;About Me
 
-<p align="left"> <a href="https://twitter.com/vopsabhii" target="blank"><img src="https://img.shields.io/twitter/follow/vopsabhii?logo=twitter&style=for-the-badge" alt="vopsabhii" /></a> </p>
+- 👷 <samp><b>Backend Engineer @Swaroop.ai</b>
+- 👨‍🎓 <samp><b>B.Tech in Computer Science and Engineering from Bhilai Institute of Technology Durg - 8.95 CPI</b>
+- 🔭 <samp><b>BTECH in Computer Science</b>
+- 🥇 <samp>SIH Finalist 2023 || Unisys Innovation Program SemiFinalists 2024 || BITSHINE Winner 2023 || SIDSET Winner 2023
+- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
+- 💬 <samp>Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture
+- 🤔 <samp>I’m looking for help with how to excel in SpringBoot
+- ⚡ <samp>Fun fact: Despite my serious demeanor, I have a knack for dad jokes and a love for cheesy puns! 🧀🤓
+- 💬 <samp>Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+- ✉️ <samp>You can email me at bhattabhii.ops1105@gmail.com. I'll try to respond as soon as possible!
+- 📄 <samp>You can check my [Resume](https://drive.google.com/file/d/13Zs6f6sgXlB1ON8uhZ3YkDlaHUMEY9Yz/view?usp=sharing) for more details about work experience.
+</div>
 
-- 🔭 I’m currently working on [CodeguruApp](https://github.com/AbhiiVops/Android-Development)
+## 🛠 &nbsp;Tech Stack
 
-- 🌱 I’m currently learning **Android Jetpack Compose, Kubernetes, Docker**
+### Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![MySQL](http://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Go](https://img.shields.io/badge/go-000?&logo=go)
+![Solidity](http://img.shields.io/badge/Solidity-000?&logo=solidity)
+![Kotlin](http://img.shields.io/badge/Kotlin-000?logo=kotlin)
 
-- 👯 I’m looking to collaborate on [CodeguruApp](https://github.com/AbhiiVops/Android-Development)
+### Technologies
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Ansible](http://img.shields.io/badge/Ansible-000?logo=ansible)
 
-- 🤝 I’m looking for help with [CodeguruApp](https://github.com/AbhiiVops/Android-Development)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhiiVops](https://github.com/AbhiiVops)
+### Frontend
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-SASS-000?&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwind-css)
+![Wordpress](http://img.shields.io/badge/-Wordpress-000?&logo=wordpress)
 
-- 📝 I regularly write articles on [https://hashnode.com/@abhii0511](https://hashnode.com/@abhii0511)
+### Backend
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?&logo=fastapi)
 
-- 💬 Ask me about **Android Development, Kotlin, Java, Linux**
 
-- 📫 How to reach me **bhattabhii.ops1105@gmail.com**
 
-- 📄 Know about my experiences [https://hashnode.com/@abhii0511](https://hashnode.com/@abhii0511)
+### OS , IDE and Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+![GitKraken](http://img.shields.io/badge/-GitKraken-000?&logo=gitkraken)
+[![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?&logo=gnu-bash)
+![Linux](http://img.shields.io/badge/-Linux-000?&logo=linux)
+![Postman](http://img.shields.io/badge/-Postman-000?&logo=postman&)
 
-- ⚡ Fun fact **I snore when I sleep**
+### APIs
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Google APIs](http://img.shields.io/badge/-Google%20APIs-000?&logo=google)
+[![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-000?&logo=🤗)
+[![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ⚙️ &nbsp;GitHub Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/abhiivops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiivops" height="30" width="40" /></a>
-<a href="https://twitter.com/vopsabhii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vopsabhii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-bhattacharjee-0747331a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-bhattacharjee-0747331a3/" height="30" width="40" /></a>
-<a href="https://instagram.com/abhii.bhattacharya4321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhii.bhattacharya4321/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@abhii0511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhii0511" height="30" width="40" /></a>
-<a href="https://medium.com/@abhiias2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhiias2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc7kpeyfjv4gvw5yi9xdubcq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7kpeyfjv4gvw5yi9xdubcq" height="30" width="40" /></a>
-</p>
+<p align="center">
+<a href="https://github.com/AbhiiVops">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhiiVops&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhiiVops&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>            
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
+## 💁‍♂️ &nbsp;Support
 <p><a href="https://www.buymeacoffee.com/bhattabhii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhattabhii" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiivops&show_icons=true&locale=en&layout=compact" alt="abhiivops" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiivops&show_icons=true&locale=en" alt="abhiivops" /></p>
+## 📫 &nbsp; How to reach me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiivops&" alt="abhiivops" /></p>
+
+<a href="https://www.linkedin.com/in/abhishek-bhattacharjee-0747331a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:bhattabhii.ops1105@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/abhii.bhattacharya4321/"><img src="https://img.shields.io/badge/-@abhii.bhattacharya4321-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 

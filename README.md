@@ -30,16 +30,17 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 👷 <samp><b>Backend Engineer @Swaroop.ai</b>
+- 👾 <samp><b>Problem setter Intern @Techcurators<b/>
 - 👨‍🎓 <samp><b>B.Tech in Computer Science and Engineering from Bhilai Institute of Technology Durg - 8.95 CPI</b>
 - 🔭 <samp><b>BTECH in Computer Science</b>
-- 🥇 <samp>SIH Finalist 2023 || Unisys Innovation Program SemiFinalists 2024 || BITSHINE Winner 2023 || SIDSET Winner 2023
-- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
-- 💬 <samp>Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture
-- 🤔 <samp>I’m looking for help with how to excel in SpringBoot
-- ⚡ <samp>Fun fact: Despite my serious demeanor, I have a knack for dad jokes and a love for cheesy puns! 🧀🤓
-- 💬 <samp>Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
-- ✉️ <samp>You can email me at bhattabhii.ops1105@gmail.com. I'll try to respond as soon as possible!
-- 📄 <samp>You can check my [Resume](https://drive.google.com/file/d/13Zs6f6sgXlB1ON8uhZ3YkDlaHUMEY9Yz/view?usp=sharing) for more details about work experience.
+- 🥇 <samp><b>SIH Finalist 2023 || Unisys Innovation Program SemiFinalists 2024 || BITSHINE Winner 2023 || SIDSET Winner 2023</b>
+- 💼 <samp><b>I’m looking for **Internship** Opportunities/roles.</b>
+- 💬 <samp><b>Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture</b>
+- 🤔 <samp><b>I’m looking for help with how to excel in SpringBoot</b>
+- ⚡ <samp><b>Fun fact: Despite my serious demeanor, I have a knack for dad jokes and a love for cheesy puns! 🧀🤓</b>
+- 💬 <samp><b>Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!</b>
+- ✉️ <samp><b>You can email me at bhattabhii.ops1105@gmail.com. I'll try to respond as soon as possible!</b>
+- 📄 <samp><b>You can check my [Resume](https://drive.google.com/file/d/13Zs6f6sgXlB1ON8uhZ3YkDlaHUMEY9Yz/view?usp=sharing) for more details about work experience.</b>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
@@ -92,15 +93,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![GitKraken](http://img.shields.io/badge/-GitKraken-000?&logo=gitkraken)
-[![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?&logo=gnu-bash)
+![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?&logo=gnu-bash)
 ![Linux](http://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Postman](http://img.shields.io/badge/-Postman-000?&logo=postman&)
 
 ### APIs
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Google APIs](http://img.shields.io/badge/-Google%20APIs-000?&logo=google)
-[![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-000?&logo=🤗)
-[![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
+![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-000?&logo=🤗)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
 
 ## ⚙️ &nbsp;GitHub Analytics
 

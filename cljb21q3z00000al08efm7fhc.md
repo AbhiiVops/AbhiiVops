@@ -539,7 +539,11 @@ These are the tools that can make your life easier when you are playing around w
 * To convert YAML to JSON:
     
     [https://onlineyamltools.com/convert-yaml-to-json](https://onlineyamltools.com/convert-yaml-to-json)
+
+* To compare YAML files:
     
+    [https://yamline.com/compare/](https://yamline.com/compare/)
+
 * Notes:
     
     [https://github.com/AbhiiVops/YAML](https://github.com/AbhiiVops/YAML)
